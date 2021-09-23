@@ -1,2 +1,3 @@
 # EasyAid
- UI Prototype for a pandemic oriented government financial website
+Repo dedicated to my final class project for IS4300
+* Features a functional UI prototype oriented towards a government hosted pandemic relief website
